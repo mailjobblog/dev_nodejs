@@ -8,7 +8,7 @@
 npm i
 ```
 
-连接测试
+代码测试
 
 ```bash
 node main.js
